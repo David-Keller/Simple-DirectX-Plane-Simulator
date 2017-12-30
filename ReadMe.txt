@@ -15,7 +15,7 @@ warer wave generation from addition of 2 textures
 simple billboarding
 skybox
 simple camera movement and controls
-difuse and specular lighting
+diffuse and specular lighting
 texturing of objects
 
 TODO:
